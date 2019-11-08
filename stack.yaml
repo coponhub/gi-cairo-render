@@ -2,9 +2,6 @@ resolver: lts-11.4
 packages:
   - gi-cairo-render
   - gi-cairo-connector
-  - examples/sdl
-  - examples/clock
-  - examples/hlabyrinth
 extra-deps:
   - gi-gdk-3.0.15
   - gi-gtk-3.0.22
